@@ -1,2 +1,2 @@
 # BottomupPanel
-![](https://github.com/matthew-ZH/SpringCircleLoader/raw/master/demo/BottomupPanelDemo.gif)
+![](https://github.com/matthew-ZH/BottomupPanel/raw/master/demo/BottomupPanelDemo.gif)
